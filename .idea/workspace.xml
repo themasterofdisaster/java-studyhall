@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/basics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/decisionstructures/IfElseIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/decisionstructures/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/decisionstructures/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/decisionstructures/NestedIfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/decisionstructures/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/mac-shortcuts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/basics.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,17 +62,37 @@
       <option name="presentableId" value="Default" />
       <updated>1598930965404</updated>
       <workItem from="1598930970649" duration="1396000" />
-      <workItem from="1599101854517" duration="1593000" />
+      <workItem from="1599101854517" duration="3960000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
+      <created>1599108068459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599108068459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding a HelloWorld exercise and some information document." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a HelloWorld exercise and some information document." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599107977748">
+    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599109149050">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599107977748" />
+    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1599109149050" />
+    <state x="434" y="139" key="CommitChangelistDialog2" timestamp="1599108068007">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="434" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1599108068007" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599108070745">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599108070745" />
   </component>
 </project>
