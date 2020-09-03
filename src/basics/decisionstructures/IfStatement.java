@@ -7,9 +7,10 @@ import java.util.Scanner;
 Exercise from TAU's Java Programming course by Angie Jones
 https://testautomationu.applitools.com/java-programming-course/
 
-    Chapter3a
+    Chapter3a - If Statement
 
-    If Statement
+    Salary Calculator
+
     All salespeople get a payment of $1000 a week.
     Salespeople who exceed 10 sales get an additional bonus of $250.
 */

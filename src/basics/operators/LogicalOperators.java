@@ -1,4 +1,4 @@
-package basics.decisionstructures;
+package basics.operators;
 
 import java.util.Scanner;
 
@@ -6,15 +6,13 @@ import java.util.Scanner;
 Exercise from TAU's Java Programming course by Angie Jones
 https://testautomationu.applitools.com/java-programming-course/
 
-    Chapter3c - Nested Ifs
-
-    Loan Qualifier
+    3f - Nested Ifs exercise modified to implement logical operators.
 
     To qualify for a loan a person must make at least 30,000
     and have been working at their current job for at least 2 years
 */
 
-public class NestedIfStatements {
+public class LogicalOperators {
 
     public static void main(String args[]) {
 
@@ -30,14 +28,18 @@ public class NestedIfStatements {
 
         scanner.close();
 
-        if(salary >= requiredSalary){
-            if(yearsEmployed>=requiredYearsEmployed){
-                System.out.println("Congrats! You qualify for the loan");
-            }
-            else System.out.println("Sorry, you need at least "
-                    + requiredYearsEmployed + " years working with your current employer to qualify");
+        if(salary >= requiredSalary && yearsEmployed >=requiredYearsEmployed){
+            System.out.println("Congrats! You qualify for the loan");
         }
-        else System.out.println("Sorry, you need a salary of at least "
-                + requiredSalary + " pesos to qualify");
+        else{
+            System.out.println("Sorry, you need a salary of at least "
+                    + requiredSalary + " pesos AND at least " + requiredYearsEmployed
+                    + " years working with your current employer to qualify for the loan");
+
+        }
+
     }
+}
+
+
 }

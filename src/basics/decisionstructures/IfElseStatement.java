@@ -6,9 +6,9 @@ import java.util.Scanner;
 Exercise from TAU's Java Programming course by Angie Jones
 https://testautomationu.applitools.com/java-programming-course/
 
-    Chapter3b
+    Chapter3b - If-Else statements
 
-    If-Else statements
+    Quota Calculator
 
     All sales people are expected to make at least 10 sales each week.
     For those who do, they receive a congratulatory message.

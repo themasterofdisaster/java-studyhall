@@ -7,7 +7,9 @@ Exercise from TAU's Java Programming course by Angie Jones
 https://testautomationu.applitools.com/java-programming-course/
 
     Chapter3e - Switch
-    SWITCH
+
+    Grade Message
+
     Have a user enter their letter grade, and using a switch statement,
     print out a message letting them know how they did.
  */

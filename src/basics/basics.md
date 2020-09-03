@@ -9,3 +9,9 @@ Package naming convention: https://docs.oracle.com/javase/tutorial/java/package/
 
 ### Classes 
 Convention: Classes are named in camel case. ClassNameExample 
+
+
+### MD Files (like this one)
+they don't seem to like being named with a middle line. 
+no-like.md will not show it as an MD file in intellij and therefore will not 
+allow to use the "preview" mode. 
