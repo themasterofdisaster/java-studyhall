@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/decisionstructures/IfElseIfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/decisionstructures/IfElseIfStatement.java" afterDir="false" />
@@ -62,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598930965404</updated>
       <workItem from="1598930970649" duration="1396000" />
-      <workItem from="1599101854517" duration="10797000" />
+      <workItem from="1599101854517" duration="11759000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -92,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599199638986</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Formatting documentation">
+      <created>1599236557712</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599236557712</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,20 +111,21 @@
     <MESSAGE value="Adding decision structure exercises" />
     <MESSAGE value="Added info on operators. Relational and logical." />
     <MESSAGE value="Added repetition structures samples: while loop and do while loop. Added also descriptions to the decision structures classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added repetition structures samples: while loop and do while loop. Added also descriptions to the decision structures classes." />
+    <MESSAGE value="Formatting documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formatting documentation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599109149050">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1599109149050" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1599199638368">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1599236556905">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1599199638368" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599199643913">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1599236556905" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599236560785">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599199643913" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599236560785" />
   </component>
 </project>

@@ -8,7 +8,7 @@ https://testautomationu.applitools.com/java-programming-course/
 
     Chapter3b - If-Else statements
 
-        Quota Calculator
+        Exercise: Quota Calculator
         All sales people are expected to make at least 10 sales each week.
         For those who do, they receive a congratulatory message.
         For those who don't, they are informed of how many sales they where short.

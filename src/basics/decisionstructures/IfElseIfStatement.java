@@ -8,7 +8,7 @@ https://testautomationu.applitools.com/java-programming-course/
 
     Chapter3d - If Else If
 
-        Test Results exercise.
+        Exercise: Test Results
 
 
     The If-Else-If _Statement
