@@ -15,6 +15,12 @@ https://testautomationu.applitools.com/java-programming-course/
     Salespeople who exceed 10 sales get an additional bonus of $250.
 */
 
+/*
+      The If Statement
+
+      If a certain situation occurs, do something and then go proceed with the rest of the flow.
+*/
+
 public class IfStatement {
 
     public static void main(String args[]) {

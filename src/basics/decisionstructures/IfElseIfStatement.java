@@ -12,6 +12,14 @@ https://testautomationu.applitools.com/java-programming-course/
 
 */
 
+/*
+        The If-Else-If _Statement
+
+        If the first condition is met, do something.
+        Else if condition B is met, do something else.
+        Else if condition C is met, do something else.
+*/
+
 public class IfElseIfStatement {
 
     public static void main(String args[]){

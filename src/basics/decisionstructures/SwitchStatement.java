@@ -12,7 +12,15 @@ https://testautomationu.applitools.com/java-programming-course/
 
     Have a user enter their letter grade, and using a switch statement,
     print out a message letting them know how they did.
- */
+*/
+
+/*
+        The Switch Statement
+
+        If situation A occurs, do something.
+        Else if situation B occurs, do something else.
+        Else if situation C occurs, do something else.
+*/
 
 public class SwitchStatement {
 

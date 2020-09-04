@@ -15,6 +15,11 @@ https://testautomationu.applitools.com/java-programming-course/
     For those who don't, they are informed of how many sales they where short.
 */
 
+/*
+        The If-Else Statement
+
+        If a certain condition is met, then do something. Otherwise, do something else.
+*/
 
 public class IfElseStatement {
 

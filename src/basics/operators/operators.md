@@ -11,11 +11,11 @@
 
 Notes:
 
-=   will assign value to a variable
-==  will compare values
-
 == and != cannot be used to compare strings. These two operators will compare the memory locations of the strings
 and not the values.
+
+=   will assign value to a variable
+==  will compare values
 
 ## Logical Operators
 Used to combine two separate conditions in order to get one boolean value in result

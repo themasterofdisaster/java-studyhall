@@ -14,6 +14,14 @@ https://testautomationu.applitools.com/java-programming-course/
     and have been working at their current job for at least 2 years
 */
 
+
+/*
+        Nested If Statements
+
+        It's an if within an if statement. If a certain condition occurs then proceed to check for the next condition.
+*/
+
+
 public class NestedIfStatements {
 
     public static void main(String args[]) {
