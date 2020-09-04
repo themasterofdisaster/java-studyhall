@@ -8,12 +8,10 @@ https://testautomationu.applitools.com/java-programming-course/
 
     Chapter3d - If Else If
 
-    Test Results
+        Test Results exercise.
 
-*/
 
-/*
-        The If-Else-If _Statement
+    The If-Else-If _Statement
 
         If the first condition is met, do something.
         Else if condition B is met, do something else.

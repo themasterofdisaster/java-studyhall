@@ -8,15 +8,13 @@ https://testautomationu.applitools.com/java-programming-course/
 
     Chapter3b - If-Else statements
 
-    Quota Calculator
+        Quota Calculator
+        All sales people are expected to make at least 10 sales each week.
+        For those who do, they receive a congratulatory message.
+        For those who don't, they are informed of how many sales they where short.
 
-    All sales people are expected to make at least 10 sales each week.
-    For those who do, they receive a congratulatory message.
-    For those who don't, they are informed of how many sales they where short.
-*/
 
-/*
-        The If-Else Statement
+    The If-Else Statement
 
         If a certain condition is met, then do something. Otherwise, do something else.
 */

@@ -8,14 +8,12 @@ https://testautomationu.applitools.com/java-programming-course/
 
     Chapter3e - Switch
 
-    Grade Message
+        Grade Message
+        Have a user enter their letter grade, and using a switch statement,
+        print out a message letting them know how they did.
 
-    Have a user enter their letter grade, and using a switch statement,
-    print out a message letting them know how they did.
-*/
 
-/*
-        The Switch Statement
+    The Switch Statement
 
         If situation A occurs, do something.
         Else if situation B occurs, do something else.
