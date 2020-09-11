@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoopWithBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/NestedLoops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoopWithBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoopWithBreak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598930965404</updated>
       <workItem from="1598930970649" duration="1396000" />
-      <workItem from="1599101854517" duration="14881000" />
+      <workItem from="1599101854517" duration="15553000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599791619543</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="For loop with a break to exit the loop.">
+      <created>1599792443182</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599792443182</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,20 +129,21 @@
     <MESSAGE value="Formatting documentation" />
     <MESSAGE value="For loop" />
     <MESSAGE value="Updating documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating documentation" />
+    <MESSAGE value="For loop with a break to exit the loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="For loop with a break to exit the loop." />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599109149050">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1599109149050" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1599791618975">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1599792442750">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1599791618975" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599791623337">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1599792442750" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599792447134">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599791623337" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599792447134" />
   </component>
 </project>

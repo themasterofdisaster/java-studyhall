@@ -12,6 +12,9 @@ import java.util.Scanner;
 
         Search a String to determine if it contains the letter 'A'.
 
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 4c - For Loop.
+        https://testautomationu.applitools.com/java-programming-course/
+
  */
 public class ForLoopWithBreak {
     public static void main(String args[]){
@@ -31,7 +34,7 @@ public class ForLoopWithBreak {
                 letterFound = true;
 
                 //if you found the letter "A", then break to exit the for loop. There's no need to continue searching
-                //through the rest of the letters, because by now we already know letterFound = true. 
+                //through the rest of the letters, because by now we already know letterFound = true.
                 break;
             }
         }
