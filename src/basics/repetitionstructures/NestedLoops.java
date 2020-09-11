@@ -23,7 +23,7 @@ public class NestedLoops {
 
             double total = 0;
 
-            //Make sure to use a different sentinel in this inner loop. 
+            //Make sure to use a different sentinel in this inner loop.
             for(int j=0; j<numberOfTests; j++){
                 System.out.println("Enter the score for Test #" + (j+1));
                 double score = scanner.nextDouble();
