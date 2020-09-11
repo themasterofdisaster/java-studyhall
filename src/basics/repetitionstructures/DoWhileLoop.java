@@ -3,17 +3,6 @@ package basics.repetitionstructures;
 import java.util.Scanner;
 
 /*
-Exercise from TAU's Java Programming course by Angie Jones
-https://testautomationu.applitools.com/java-programming-course/
-
-    Chapter4b - Do While Loop.
-
-        Exercise: Add Numbers
-        Write a program that allows a user to enter two numbers,
-        and then sums up the two numbers. The user should be able to
-        repeat this action until they indicate they are done.
-
-
     Do While Loop
 
         do{
@@ -24,6 +13,15 @@ https://testautomationu.applitools.com/java-programming-course/
         if the condition is true or not. If it's true, the loop runs once again. If it's false we exit the loop. So
         when using the do while loop the loop will always run at least one time.
 
+
+    Exercise: Add Numbers
+
+        Write a program that allows a user to enter two numbers,
+        and then sums up the two numbers. The user should be able to
+        repeat this action until they indicate they are done.
+
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 4b - Do While Loop.
+        https://testautomationu.applitools.com/java-programming-course/
  */
 
 public class DoWhileLoop {

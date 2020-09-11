@@ -3,19 +3,19 @@ package basics.decisionstructures;
 import java.util.Scanner;
 
 /*
-Exercise from TAU's Java Programming course by Angie Jones
-https://testautomationu.applitools.com/java-programming-course/
-
-    Chapter3c - Nested Ifs
-
-        Exercise: Loan Qualifier
-        To qualify for a loan a person must make at least 30,000
-        and have been working at their current job for at least 2 years
-
-
     Nested If Statements
 
         It's an if within an if statement. If a certain condition occurs then proceed to check for the next condition.
+
+
+    Exercise: Loan Qualifier
+
+        To qualify for a loan a person must make at least 30,000
+        and have been working at their current job for at least 2 years
+
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 3c - Nested If Statements.
+        https://testautomationu.applitools.com/java-programming-course/
+
 */
 
 

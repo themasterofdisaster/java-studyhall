@@ -3,15 +3,16 @@ package basics.operators;
 import java.util.Scanner;
 
 /*
-Exercise from TAU's Java Programming course by Angie Jones
-https://testautomationu.applitools.com/java-programming-course/
 
-    3f - Nested Ifs exercise modified to implement logical operators.
+    Exercise: Loan Qualifier with Logical Operators.
 
-    Loan Qualifier with Logical Operators
+        Nested Ifs exercise modified to implement logical operators.
+        To qualify for a loan a person must make at least 30,000 and have been working at their current job for
+        at least 2 years
 
-    To qualify for a loan a person must make at least 30,000
-    and have been working at their current job for at least 2 years
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 3f - Relational and Logical Operators.
+        https://testautomationu.applitools.com/java-programming-course/
+
 */
 
 public class LogicalOperators {

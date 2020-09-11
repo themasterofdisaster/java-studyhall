@@ -3,20 +3,9 @@ package basics.repetitionstructures;
 import java.util.Scanner;
 
 /*
-Exercise from TAU's Java Programming course by Angie Jones
-https://testautomationu.applitools.com/java-programming-course/
-
-    Chapter 4a - While Loop.
-
-        Exercise: GrossPayInputValidation
-        Each store employee makes $15 an hour. Write a program that allows the employee to enter the number
-        of hours worked for the week. Do not allow overtime.
-
-
     Repetition Structures - Loops
 
         Loops are structures that cause a block of code to repeat.
-
 
     While Loop
 
@@ -24,12 +13,20 @@ https://testautomationu.applitools.com/java-programming-course/
             do this, then go back to validate the condition
         }
 
-
     Sentinels
 
         A sentinel is a variable used within the condition that controls the loop.. It's very important that
         somewhere in your loops there's an opportunity for the sentinel to be updated. Otherwise, this loop
         will run infinitely.
+
+
+    Exercise: GrossPayInputValidation
+
+        Each store employee makes $15 an hour. Write a program that allows the employee to enter the number
+        of hours worked for the week. Do not allow overtime.
+
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 4a - While Loop.
+        https://testautomationu.applitools.com/java-programming-course/
 */
 
 public class WhileLoop {

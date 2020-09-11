@@ -4,19 +4,19 @@ import java.util.Scanner;
 // ^ we import the class java.util.Scanner to be able to use
 
 /*
-Exercise from TAU's Java Programming course by Angie Jones
-https://testautomationu.applitools.com/java-programming-course/
-
-    Chapter3a - If Statement
-
-        Exercise: Salary Calculator
-        All salespeople get a payment of $1000 a week.
-        Salespeople who exceed 10 sales get an additional bonus of $250.
-
-
     The If Statement
 
         If a certain situation occurs, do something and then go proceed with the rest of the flow.
+
+
+    Exercise: Salary Calculator
+
+        All salespeople get a payment of $1000 a week.
+        Salespeople who exceed 10 sales get an additional bonus of $250.
+
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 3a - If Statements.
+        https://testautomationu.applitools.com/java-programming-course/
+
 */
 
 public class IfStatement {

@@ -3,19 +3,18 @@ package basics.decisionstructures;
 import java.util.Scanner;
 
 /*
-Exercise from TAU's Java Programming course by Angie Jones
-https://testautomationu.applitools.com/java-programming-course/
-
-    Chapter3d - If Else If
-
-        Exercise: Test Results
-
-
-    The If-Else-If _Statement
+    The If-Else-If Statement
 
         If the first condition is met, do something.
         Else if condition B is met, do something else.
         Else if condition C is met, do something else.
+
+
+    Exercise: Test Results
+
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 3d - If-Else-If Statements.
+        https://testautomationu.applitools.com/java-programming-course/
+
 */
 
 public class IfElseIfStatement {

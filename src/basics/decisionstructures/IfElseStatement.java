@@ -3,20 +3,20 @@ package basics.decisionstructures;
 import java.util.Scanner;
 
 /*
-Exercise from TAU's Java Programming course by Angie Jones
-https://testautomationu.applitools.com/java-programming-course/
+    The If-Else Statement
 
-    Chapter3b - If-Else statements
+        If a certain condition is met, then do something. Otherwise, do something else.
 
-        Exercise: Quota Calculator
+
+    Exercise: Quota Calculator
+
         All sales people are expected to make at least 10 sales each week.
         For those who do, they receive a congratulatory message.
         For those who don't, they are informed of how many sales they where short.
 
+        Exercise from TAU's Java Programming course by Angie Jones. Chapter 3b - If-Else statements.
+        https://testautomationu.applitools.com/java-programming-course/
 
-    The If-Else Statement
-
-        If a certain condition is met, then do something. Otherwise, do something else.
 */
 
 public class IfElseStatement {
