@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/basic_notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/methods.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoopWithBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoopWithBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/basics.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/basics" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -57,7 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1598930965404</updated>
       <workItem from="1598930970649" duration="1396000" />
-      <workItem from="1599101854517" duration="15553000" />
+      <workItem from="1599101854517" duration="17803000" />
+      <workItem from="1599865166437" duration="76000" />
+      <workItem from="1600135007802" duration="1868000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -115,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599792443182</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Nested loops exercise">
+      <created>1599792961288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599792961288</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Nested loops exercise">
+      <created>1599792986322</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599792986322</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,20 +152,25 @@
     <MESSAGE value="For loop" />
     <MESSAGE value="Updating documentation" />
     <MESSAGE value="For loop with a break to exit the loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="For loop with a break to exit the loop." />
+    <MESSAGE value="Nested loops exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested loops exercise" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599109149050">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1599109149050" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1599792960897">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1599792986188">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1599792960897" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599792962879">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1599792986188" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599792989299">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599792962879" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1599792989299" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600135006652">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600135006652" />
   </component>
 </project>
