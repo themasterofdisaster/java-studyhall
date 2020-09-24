@@ -4,6 +4,9 @@
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/mac_shortcuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/intellij_shortcuts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumwd-java-studyhall" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumwd-java-studyhall" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1gtPYnATSIFAWR5zGRd7XIJywnn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,7 +66,9 @@
       <workItem from="1598930970649" duration="1396000" />
       <workItem from="1599101854517" duration="17803000" />
       <workItem from="1599865166437" duration="76000" />
-      <workItem from="1600135007802" duration="2888000" />
+      <workItem from="1600135007802" duration="4952000" />
+      <workItem from="1600395823961" duration="3501000" />
+      <workItem from="1600921915280" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -148,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600139136380</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added README.md">
+      <created>1600143261843</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600143261843</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,24 +178,29 @@
     <MESSAGE value="For loop with a break to exit the loop." />
     <MESSAGE value="Nested loops exercise" />
     <MESSAGE value="added methods.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="added methods.md" />
+    <MESSAGE value="added README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="added README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599109149050">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1599109149050" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1600139136240">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1600143261407">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1600139136240" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1600139145531">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1600143261407" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1600143263507">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1600139145531" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1600143263507" />
     <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600135006652">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600135006652" />
+    <state x="234" y="159" key="new project wizard" timestamp="1600222706134">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="234" y="159" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1600222706134" />
   </component>
 </project>
