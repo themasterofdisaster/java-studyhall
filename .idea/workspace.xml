@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/oop/objects/HomeAreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/oop/objects/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/arrays/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/arrays/LotteryTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/arrays/arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/objects/HomeAreaCalculatorRedo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/overloading/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/overloading/MonthConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/operators/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/operators/LogicalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/repetitionstructures/NestedLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/repetitionstructures/NestedLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/oop/objects/HomeAreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/objects/HomeAreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/oop/objects/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/objects/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +49,11 @@
   </component>
   <component name="RunManager">
     <configuration name="HomeAreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.oop.objects.HomeAreaCalculator" />
+      <option name="MAIN_CLASS_NAME" value="oop.objects.HomeAreaCalculator" />
       <module name="java-studyhall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.oop.objects.*" />
+          <option name="PATTERN" value="oop.overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,7 +95,7 @@
       <workItem from="1600135007802" duration="4952000" />
       <workItem from="1600395823961" duration="3501000" />
       <workItem from="1600921915280" duration="4652000" />
-      <workItem from="1601353994222" duration="369000" />
+      <workItem from="1601353994222" duration="2583000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600922627811</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Documentation updates">
+      <created>1601354428865</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601354428865</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,17 +221,18 @@
     <MESSAGE value="added methods.md" />
     <MESSAGE value="added README.md" />
     <MESSAGE value="Deleted readme file in src. Updated shortcuts md file name." />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted readme file in src. Updated shortcuts md file name." />
+    <MESSAGE value="Documentation updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Documentation updates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599109149050">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1599109149050" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1600922627042">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1601354427735">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1600922627042" />
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1601354427735" />
     <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1600927189308">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -239,10 +249,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600927189308" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1600922639200">
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601354440690">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1600922639200" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601354440690" />
     <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600135006652">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

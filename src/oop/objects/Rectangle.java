@@ -1,4 +1,4 @@
-package basics.oop.objects;
+package oop.objects;
 
 /*
     Objects
