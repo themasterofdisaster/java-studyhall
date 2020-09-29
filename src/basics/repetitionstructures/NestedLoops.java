@@ -3,6 +3,7 @@ package basics.repetitionstructures;
 import java.util.Scanner;
 /*
     Exercise: Average Test Scores
+
         Find the average of each student's test scores.
 
         Exercise from TAU's Java Programming course by Angie Jones. Chapter 4d - Nested Loops.

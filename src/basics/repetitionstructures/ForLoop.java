@@ -16,6 +16,7 @@ import java.util.Scanner;
 
 
     Exercise: Cashier
+
         Write a cashier program that will scan a given number of items and tally the cost.
 
         Exercise from TAU's Java Programming course by Angie Jones. Chapter 4c - For Loop.
