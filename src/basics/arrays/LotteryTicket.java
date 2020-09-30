@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Random;
 
 /*
+    Arrays.
+        Find in this class arrays in use. Creating arrays, setting values to arras and returning values from arrays.
+
+        Find also two algorithms to search arrays: Sequential Search and Binary Search.
+
         Exercise from TAU's Java Programming course by Angie Jones. Chapter 7a.
         https://testautomationu.applitools.com/java-programming-course/
  */

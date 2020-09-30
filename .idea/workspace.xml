@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/arrays/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/arrays/LotteryTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/arrays/arrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/objects/HomeAreaCalculatorRedo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/overloading/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/overloading/MonthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/arrays/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/datatypes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/InheritanceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/inheritance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/oopprinciples.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/oop/objects/HomeAreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/objects/HomeAreaCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/oop/objects/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/objects/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/intellij_shortcuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-studyhall/basics/intellij_shortcuts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/oop/objects/HomeAreaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/oop/objects/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/NestedLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/NestedLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/arrays/LotteryTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/arrays/LotteryTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/intellij_shortcuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/intellij_shortcuts.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/basics" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LotteryTicket">
     <configuration name="HomeAreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.objects.HomeAreaCalculator" />
       <module name="java-studyhall" />
@@ -61,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LotteryTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.arrays.LotteryTicket" />
+      <module name="java-studyhall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LotteryTicket" />
         <item itemvalue="Application.HomeAreaCalculator" />
       </list>
     </recent_temporary>
@@ -95,7 +115,7 @@
       <workItem from="1600135007802" duration="4952000" />
       <workItem from="1600395823961" duration="3501000" />
       <workItem from="1600921915280" duration="4652000" />
-      <workItem from="1601353994222" duration="2583000" />
+      <workItem from="1601353994222" duration="9893000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -202,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601354428865</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Arrays">
+      <created>1601356676974</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601356676974</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,37 +249,54 @@
     <MESSAGE value="added README.md" />
     <MESSAGE value="Deleted readme file in src. Updated shortcuts md file name." />
     <MESSAGE value="Documentation updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Documentation updates" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599109149050">
+    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601432850720">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1599109149050" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1601354427735">
+    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1601432850720" />
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1601356676318">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1601354427735" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1600927189308">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1601356676318" />
+    <state width="1638" height="345" key="GridCell.Tab.0.bottom" timestamp="1601430028730">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600927189308" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1600927189308">
+    <state width="1638" height="345" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028730" />
+    <state width="1638" height="345" key="GridCell.Tab.0.center" timestamp="1601430028729">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600927189308" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1600927189308">
+    <state width="1638" height="345" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028729" />
+    <state width="1638" height="345" key="GridCell.Tab.0.left" timestamp="1601430028728">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600927189308" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1600927189308">
+    <state width="1638" height="345" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028728" />
+    <state width="1638" height="345" key="GridCell.Tab.0.right" timestamp="1601430028729">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600927189308" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601354440690">
+    <state width="1638" height="345" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028729" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1601430028731">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601354440690" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028731" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1601430028730">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028730" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1601430028730">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028730" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1601430028731">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028731" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601356680053">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601356680053" />
     <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600135006652">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
