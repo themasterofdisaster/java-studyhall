@@ -23,6 +23,10 @@ public class Person {
     }
      */
 
+    public void iAm(){
+        System.out.println("I am a PERSON");
+    }
+
     public String getName() {
         return name;
     }

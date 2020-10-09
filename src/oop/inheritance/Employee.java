@@ -28,6 +28,14 @@ public class Employee extends Person {
         System.out.println("In Employee default constructor");
     }
 
+    //Override of a method. We inherit the method iAM() from Person, but in this case we want to modify what it does.
+    //We use the same method name and signature and modify the code within it to something appropriate for "Employee".
+    //Use the @Override annotation follow best practices
+    @Override
+    public void iAm(){
+        System.out.println("I am an EMPLOYEE");
+    }
+
     public String getEmployeeId() {
         return employeeId;
     }

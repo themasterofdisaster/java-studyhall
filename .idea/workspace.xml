@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/arrays/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/datatypes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/InheritanceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/inheritance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/oopprinciples.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/polymorphism/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/intellij_shortcuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-studyhall/basics/intellij_shortcuts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/oop/objects/HomeAreaCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/oop/objects/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/ForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/NestedLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-studyhall/basics/repetitionstructures/NestedLoops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/arrays/LotteryTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/arrays/LotteryTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/intellij_shortcuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/intellij_shortcuts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/inheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/inheritance.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +105,9 @@
       <workItem from="1600135007802" duration="4952000" />
       <workItem from="1600395823961" duration="3501000" />
       <workItem from="1600921915280" duration="4652000" />
-      <workItem from="1601353994222" duration="9893000" />
+      <workItem from="1601353994222" duration="10619000" />
+      <workItem from="1601497324441" duration="727000" />
+      <workItem from="1602207352443" duration="2337000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -229,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601356676974</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added inheritance exercises">
+      <created>1601435014483</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601435014483</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,17 +249,18 @@
     <MESSAGE value="Deleted readme file in src. Updated shortcuts md file name." />
     <MESSAGE value="Documentation updates" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Added inheritance exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added inheritance exercises" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601432850720">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1601432850720" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1601356676318">
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1601435013879">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1601356676318" />
+    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1601435013879" />
     <state width="1638" height="345" key="GridCell.Tab.0.bottom" timestamp="1601430028730">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -293,10 +293,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028731" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601356680053">
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601435016957">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601356680053" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601435016957" />
     <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600135006652">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
