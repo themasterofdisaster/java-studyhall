@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/polymorphism/Animal.java" afterDir="false" />
+    <list default="true" id="1f8250c1-8783-4a58-9475-808460b386a5" name="Default Changelist" comment="Polymorphism">
+      <change afterPath="$PROJECT_DIR$/src/functionalinterfaces/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalinterfaces/Predicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalinterfaces/TestEmployeePredicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/inheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/inheritance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumwd-java-studyhall" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumwd-java-studyhall" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +37,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LotteryTicket">
+  <component name="RunManager" selected="Application.TestEmployeePredicates">
     <configuration name="HomeAreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.objects.HomeAreaCalculator" />
       <module name="java-studyhall" />
@@ -70,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestEmployeePredicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalinterfaces.TestEmployeePredicates" />
+      <module name="java-studyhall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalinterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEmployeePredicates" />
         <item itemvalue="Application.LotteryTicket" />
         <item itemvalue="Application.HomeAreaCalculator" />
       </list>
@@ -107,7 +122,19 @@
       <workItem from="1600921915280" duration="4652000" />
       <workItem from="1601353994222" duration="10619000" />
       <workItem from="1601497324441" duration="727000" />
-      <workItem from="1602207352443" duration="2337000" />
+      <workItem from="1602207352443" duration="3148000" />
+      <workItem from="1602969340030" duration="635000" />
+      <workItem from="1605145198753" duration="1607000" />
+      <workItem from="1605150633829" duration="10000" />
+      <workItem from="1605154911691" duration="33000" />
+      <workItem from="1605661938532" duration="990000" />
+      <workItem from="1605809578411" duration="506000" />
+      <workItem from="1605824115224" duration="14000" />
+      <workItem from="1611453585550" duration="226000" />
+      <workItem from="1611592173497" duration="1069000" />
+      <workItem from="1611800080739" duration="1881000" />
+      <workItem from="1612400502295" duration="2781000" />
+      <workItem from="1615139702784" duration="1698000" />
     </task>
     <task id="LOCAL-00001" summary="Adding a HelloWorld exercise and some information document.">
       <created>1599108068459</created>
@@ -228,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601435014483</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Polymorphism">
+      <created>1602211569462</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602211569462</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,60 +284,37 @@
     <MESSAGE value="Documentation updates" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Added inheritance exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added inheritance exercises" />
+    <MESSAGE value="Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601432850720">
+    <state x="653" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1615141057832">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1601432850720" />
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2" timestamp="1601435013879">
+    <state x="653" y="227" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1615141057832" />
+    <state x="434" y="128" key="CommitChangelistDialog2" timestamp="1612826947925">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="134" width="812" height="800" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1601435013879" />
-    <state width="1638" height="345" key="GridCell.Tab.0.bottom" timestamp="1601430028730">
+    <state x="434" y="128" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1612826947925" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1615141532019">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028730" />
-    <state width="1638" height="345" key="GridCell.Tab.0.center" timestamp="1601430028729">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1615141532019" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1615141532018">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028729" />
-    <state width="1638" height="345" key="GridCell.Tab.0.left" timestamp="1601430028728">
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1615141532018" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1615141532018">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028728" />
-    <state width="1638" height="345" key="GridCell.Tab.0.right" timestamp="1601430028729">
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1615141532018" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1615141532019">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028729" />
-    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1601430028731">
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1615141532019" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1611592792156">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028731" />
-    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1601430028730">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028730" />
-    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1601430028730">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028730" />
-    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1601430028731">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1601430028731" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601435016957">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601435016957" />
-    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600135006652">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600135006652" />
-    <state x="234" y="159" key="new project wizard" timestamp="1600222706134">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="234" y="159" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1600222706134" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1611592792156" />
   </component>
 </project>
