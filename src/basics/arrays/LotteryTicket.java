@@ -5,7 +5,7 @@ import java.util.Random;
 
 /*
     Arrays.
-        Find in this class arrays in use. Creating arrays, setting values to arras and returning values from arrays.
+        Find in this class arrays in use. Creating arrays, setting values to arrays and returning values from arrays.
 
         Find also two algorithms to search arrays: Sequential Search and Binary Search.
 
@@ -68,6 +68,7 @@ public class LotteryTicket {
                 return true;
             }
         }
+
         /* If we've reached this point, then the entire array was searched
         and the value was not found
         */

@@ -17,3 +17,15 @@ new - and then we use the new keyword
 int - followed by the data type again
 
 [6] - followed by a number inside of the brackets. This number inside of the brackets represents the length of the array, meaning how many values can this array store. Once the length is declared, it's fixed — meaning it cannot be lengthened to hold more values.
+
+
+### How to get a array's size? 
+
+.length can be used 
+for int[], double[], String[] 
+
+    int size = lottoTicket[].length;
+
+For long arrays 
+
+    ar.length;
